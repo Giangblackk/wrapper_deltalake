@@ -1,0 +1,5 @@
+comment = 'wrapper_deltalake:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/wrapper_deltalake'
+relocatable = false
+superuser = true
